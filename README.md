@@ -1,15 +1,14 @@
-## Val Neekman
+## Val Neekman (AvidCoderr) 🇨🇦 🇺🇸
 
 ![Val Neekman's github stats](https://github-readme-stats.vercel.app/api?username=un33k&count_private=true&show_icons=true&theme=radical)
 
 
-## Follow me on Twitter
+## Follow me ...
 
-Follow [@UneekVu](https://twitter.com/UneekVu)
+Twitter [@UneekVu](https://twitter.com/UneekVu) //\\\ YouTube: [AvidCoderr](https://www.youtube.com/channel/UC-zqY3FyuKxOU18L27rw35A)
 
 <!--
 **un33k/avidcoderr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 [![Source Karma badge for @un33k](https://sourcekarma-og.vercel.app/api/un33k/github)](https://sourcekarma.vercel.app/un33k)
 
