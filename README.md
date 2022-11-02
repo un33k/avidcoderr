@@ -1,6 +1,6 @@
-## Val Neekman (AvidCoderr) 🇨🇦 🇺🇸
+## Avid Coder 🇨🇦 🇺🇸
 
-![Val Neekman's github stats](https://github-readme-stats.vercel.app/api?username=un33k&count_private=true&show_icons=true&theme=radical)
+![Avid Coder's github stats](https://github-readme-stats.vercel.app/api?username=un33k&count_private=true&show_icons=true&theme=radical)
 
 
 ## Follow me ...
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
-![Val Neekman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=un33k)
+![Avid Coder's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=un33k)
 -->
