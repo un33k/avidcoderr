@@ -5,10 +5,10 @@
 
 ## Follow me ...
 
-Twitter [@UneekVu](https://twitter.com/UneekVu) //\\\ YouTube: [AvidCoderr](https://www.youtube.com/@avidcoder)
+Twitter [@AvidCoderr](https://twitter.com/AvidCoderr) //\\\ YouTube: [AvidCoder](https://www.youtube.com/@avidcoder)
 
 <!--
-**un33k/avidcoderr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**un33k/avidcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Source Karma badge for @un33k](https://sourcekarma-og.vercel.app/api/un33k/github)](https://sourcekarma.vercel.app/un33k)
 
