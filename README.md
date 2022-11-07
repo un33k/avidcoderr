@@ -5,10 +5,10 @@
 
 ## Follow me ...
 
-Twitter [@AvidCoderr](https://twitter.com/AvidCoderr) //\\\ YouTube: [AvidCoder](https://www.youtube.com/@avidcoder)
+Twitter [@AvidCoderr](https://twitter.com/AvidCoderr) //\\\ YouTube: [AvidCoderr](https://www.youtube.com/@avidcoderr)
 
 <!--
-**un33k/avidcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**un33k/avidcoderr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Source Karma badge for @un33k](https://sourcekarma-og.vercel.app/api/un33k/github)](https://sourcekarma.vercel.app/un33k)
 
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
-![Avid Coder's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=un33k)
+![AvidCoderr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=un33k)
 -->
