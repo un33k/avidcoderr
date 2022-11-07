@@ -5,7 +5,7 @@
 
 ## Follow me ...
 
-Twitter [@UneekVu](https://twitter.com/UneekVu) //\\\ YouTube: [AvidCoderr](https://www.youtube.com/channel/UC-zqY3FyuKxOU18L27rw35A)
+Twitter [@UneekVu](https://twitter.com/UneekVu) //\\\ YouTube: [AvidCoderr](https://www.youtube.com/@avidcoder)
 
 <!--
 **un33k/avidcoderr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
