@@ -1,11 +1,17 @@
 ## Avid Coder 🇨🇦 🇺🇸
 
-![Avid Coder's github stats](https://github-readme-stats.vercel.app/api?username=un33k&count_private=true&show_icons=true&theme=radical)
+<!-- ![Avid Coder's github stats](https://github-readme-stats.vercel.app/api?username=un33k&count_private=true&show_icons=true&theme=radical)
+ -->
 
+## Contact info ... 
 
-## Follow me ...
+Company: [Neekware Inc.](https://neekware.com)
 
-Twitter [@AvidCoderr](https://twitter.com/AvidCoderr) //\\\ YouTube: [AvidCoderr](https://www.youtube.com/@avidcoderr)
+Email: [info@neekware.com]
+
+Twitter [@AvidCoderr](https://twitter.com/AvidCoderr)
+
+YouTube: [AvidCoderr](https://www.youtube.com/@avidcoder)
 
 <!--
 **un33k/avidcoderr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
