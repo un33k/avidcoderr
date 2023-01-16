@@ -1,8 +1,4 @@
-## Avid Coder 🇨🇦 🇺🇸
-
-<a href="https://twitter.com/" target="_blank" rel="nofollow"><img align="right" alt="Avidcoder's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/" target="_blank" rel="nofollow"><img align="right" alt="Faraz's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-
-### Hi there 👋 I'm Avidcoder.
+## Hi there 👋 I'm Avidcoder  🇨🇦 🇺🇸
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=un33k&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs"><br />
