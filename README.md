@@ -1,22 +1,18 @@
 ## Avid Coder 🇨🇦 🇺🇸
 
-<!-- ![Avid Coder's github stats](https://github-readme-stats.vercel.app/api?username=un33k&count_private=true&show_icons=true&theme=radical)
- -->
+<a href="https://twitter.com/" target="_blank" rel="nofollow"><img align="right" alt="Avidcoder's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/" target="_blank" rel="nofollow"><img align="right" alt="Faraz's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-## Contact info ... 
+### Hi there 👋 I'm Avidcoder.
 
-Company: [Neekware Inc.](https://neekware.com)
+![](https://komarev.com/ghpvc/?username=un33k)
 
-Email: [info@neekware.com]
-
-Twitter [@AvidCoderr](https://twitter.com/AvidCoderr)
-
-YouTube: [AvidCoderr](https://www.youtube.com/@avidcoder)
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=un33k&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs"><br />
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=un33k&layout=compact&hide_border=true&langs_count=10&hide=html,css">
+</p>
 
 <!--
-**un33k/avidcoderr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Source Karma badge for @un33k](https://sourcekarma-og.vercel.app/api/un33k/github)](https://sourcekarma.vercel.app/un33k)
+**un33k/un33k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -26,6 +22,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![AvidCoderr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=un33k)
 -->
