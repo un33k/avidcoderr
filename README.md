@@ -1,5 +1,18 @@
 ## Hi there 👋 I'm Avidcoder  🇨🇦 🇺🇸
 
+If you are looking for a full-stack mono-repo, then look at this project.
+[Fullerstack](https://github.com/neekware/fullerstack)
+
+If you are looking for complete ERC-20 token repo & site, have a look at:
+[PlayItForward ERC-20 Token](https://github.com/PlayItForward-IO/playitforward)
+
+If you are looking for an annotation libary, have a look at:
+[Avidcaster - Annotation](https://github.com/AvidCaster/avidcaster/tree/main/libs/ngx-annotator)
+
+If you are looking for a chat overlay libary, have a look at:
+[Avidcaster - Chat Overlay](https://github.com/AvidCaster/avidcaster/tree/main/libs/ngx-chat)
+
+For support, reach out to me/us at info@neekware.com
 
 <!-- 
 <p align="center">
