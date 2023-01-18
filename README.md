@@ -4,7 +4,7 @@ Look [here](https://github.com/neekware/fullerstack) for a full-stack mono-repo.
 
 Look [here](https://github.com/AvidCaster/avidcaster/tree/main/libs/ngx-annotator) for an annotation libary.
 
-Look [here](https://github.com/AvidCaster/avidcaster/tree/main/libs/ngx-chat) a chat overlay library.
+Look [here](https://github.com/AvidCaster/avidcaster/tree/main/libs/ngx-chat) for a chat overlay library.
 
 Look [here](https://github.com/PlayItForward-IO/playitforward) for complete ERC-20 token & site repos.
 
