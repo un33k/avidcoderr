@@ -8,7 +8,9 @@ Look [here](https://github.com/AvidCaster/avidcaster/tree/main/libs/ngx-chat) fo
 
 Look [here](https://github.com/PlayItForward-IO/playitforward) for complete ERC-20 token & site repos.
 
-For support, reach out to me/us at info@neekware.com
+For support, reach out to me/us at ✨ info@neekware.com ✨
+
+[Neekware Inc.](https://neekware.com)
 
 <!-- 
 <p align="center">
