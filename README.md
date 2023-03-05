@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Avidcoder  🇨🇦 🇺🇸
 
-Look [here](https://github.com/neekware/fullerstack) for a full-stack mono-repo.
+Look [here](https://github.com/neekware/fullerstack) for a full-stack mono-repo. (Angular, NestJS)
 
 Look [here](https://github.com/AvidCaster/avidcaster/tree/main/libs/ngx-annotator) for an annotation libary.
 
