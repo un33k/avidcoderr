@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Avidcoder  🇨🇦 🇺🇸
+## Hi there 👋 I'm an Avidcoder 🇨🇦 🇺🇸
 
 Look [here](https://github.com/neekware/fullerstack) for a full-stack mono-repo. (Angular, NestJS)
 
