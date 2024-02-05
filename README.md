@@ -1,4 +1,4 @@
-## Hi there 👋 Avidcoder here. Serving clients in 🇨🇦 🇺🇸
+## Hi there - 👋 Avidcoder here. Serving clients in 🇨🇦 🇺🇸
 
 Look [here](https://github.com/neekware/fullerstack) A unified mono-repo setup for seamless full-stack development with Angular and NestJS.
 
