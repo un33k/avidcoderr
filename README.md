@@ -1,14 +1,19 @@
-## Hi there - 👋 Avidcoder here. Serving clients in 🇨🇦 🇺🇸
+# Hi there - 👋 Avidcoder here. Serving clients in 🇨🇦 🇺🇸
 
-[FullerStack](https://github.com/neekware/fullerstack) A unified mono-repo setup for seamless full-stack development with Angular and NestJS.
+[FullerStack](https://github.com/neekware/fullerstack) - A unified mono-repo setup for seamless full-stack development with Angular and NestJS.
 
-[AvidCaster](https://github.com/AvidCaster/avidcaster/tree/main/libs/ngx-annotator) A library enabling real-time handwriting annotations directly on live video streams.
+[AvidCaster](https://github.com/AvidCaster/avidcaster/tree/main/libs/ngx-annotator) - A library enabling real-time handwriting annotations directly on live video streams.
 
-[Chat Overlay](https://github.com/AvidCaster/avidcaster/tree/main/libs/ngx-chat) A library designed to integrate and display live chat from YouTube and Twitch directly on live streams, enhancing viewer engagement.
+[Chat Overlay](https://github.com/AvidCaster/avidcaster/tree/main/libs/ngx-chat) - A library designed to integrate and display live chat from YouTube and Twitch directly on live streams, enhancing viewer engagement.
 
-[PlayItForward](https://github.com/PlayItForward-IO/playitforward) A comprehensive repository bundle for launching an ERC-20 token, complete with a dedicated website and smart contract infrastructure.
+[PlayItForward](https://github.com/PlayItForward-IO/playitforward) - A comprehensive repository bundle for launching an ERC-20 token, complete with a dedicated website and smart contract infrastructure.
 
-For support, reach out to me/us at ✨ info@neekware.com ✨
+[Python Slugify](https://github.com/un33k/python-slugify) - A Python slugify application that handles unicode.
+
+[Python IpWare](https://github.com/un33k/python-ipware) - A python package for server applications to retrieve client's IP address
+
+
+## For support, reach out to me/us at ✨ info@neekware.com ✨
 
 [Neekware Inc.](https://neekware.com)
 
