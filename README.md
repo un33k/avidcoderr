@@ -4,7 +4,7 @@
 
 - [AvidCaster](https://github.com/AvidCaster/avidcaster/tree/main/libs/ngx-annotator) - A library enabling real-time handwriting annotations directly on live video streams.
 
-- [Chat Overlay](https://github.com/AvidCaster/avidcaster/tree/main/libs/ngx-chat) - A library designed to integrate and display live chat from YouTube and Twitch directly on live streams, enhancing viewer engagement.
+- [Chat Overlay](https://github.com/AvidCaster/avidcaster/tree/main/libs/ngx-chat) - A library designed to display live chat from YouTube and Twitch directly on live streams, enhancing viewer engagement.
 
 - [PlayItForward](https://github.com/PlayItForward-IO/playitforward) - A comprehensive repository bundle for launching an ERC-20 token, complete with a dedicated website and smart contract infrastructure.
 
