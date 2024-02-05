@@ -1,12 +1,12 @@
 ## Hi there - 👋 Avidcoder here. Serving clients in 🇨🇦 🇺🇸
 
-Look [here](https://github.com/neekware/fullerstack) A unified mono-repo setup for seamless full-stack development with Angular and NestJS.
+[FullerStack](https://github.com/neekware/fullerstack) A unified mono-repo setup for seamless full-stack development with Angular and NestJS.
 
-Look [here](https://github.com/AvidCaster/avidcaster/tree/main/libs/ngx-annotator) A library enabling real-time handwriting annotations directly on live video streams.
+[AvidCaster](https://github.com/AvidCaster/avidcaster/tree/main/libs/ngx-annotator) A library enabling real-time handwriting annotations directly on live video streams.
 
-Look [here](https://github.com/AvidCaster/avidcaster/tree/main/libs/ngx-chat) A library designed to integrate and display live chat from YouTube and Twitch directly on live streams, enhancing viewer engagement.
+[Chat Overlay](https://github.com/AvidCaster/avidcaster/tree/main/libs/ngx-chat) A library designed to integrate and display live chat from YouTube and Twitch directly on live streams, enhancing viewer engagement.
 
-Look [here](https://github.com/PlayItForward-IO/playitforward) A comprehensive repository bundle for launching an ERC-20 token, complete with a dedicated website and smart contract infrastructure.
+[PlayItForward](https://github.com/PlayItForward-IO/playitforward) A comprehensive repository bundle for launching an ERC-20 token, complete with a dedicated website and smart contract infrastructure.
 
 For support, reach out to me/us at ✨ info@neekware.com ✨
 
